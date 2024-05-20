@@ -6,10 +6,10 @@ func A() {
 	fmt.Println("This is the Branch A")
 }
 
-func C(){
+func C() {
 	fmt.Println("This is to commit on Branch B from function A")
 }
 
-func feature(){
-	fmt.Println("This is the feature")
+func ajay() {
+	fmt.Println("this is ajay")
 }
