@@ -9,3 +9,7 @@ func A() {
 func C(){
 	fmt.Println("This is to commit on Branch B from function A")
 }
+
+func feature(){
+	fmt.Println("This is the feature")
+}
