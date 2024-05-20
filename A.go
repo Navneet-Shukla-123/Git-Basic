@@ -17,3 +17,7 @@ func ajay() {
 func something() {
 	fmt.Println("hello something function")
 }
+
+func lastChaneg() {
+	fmt.Println("this is the last change")
+}
