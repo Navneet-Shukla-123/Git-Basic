@@ -13,3 +13,7 @@ func New_Branch() {
 func B(){
 	fmt.Println("This is to commit on branch B from main function")
 }
+
+func feature_2(){
+	fmt.Println("This is the feature 2")
+}
