@@ -13,3 +13,7 @@ func C() {
 func ajay() {
 	fmt.Println("this is ajay")
 }
+
+func something() {
+	fmt.Println("hello something function")
+}
