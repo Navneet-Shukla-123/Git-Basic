@@ -21,3 +21,7 @@ func something() {
 func lastChaneg() {
 	fmt.Println("this is the last change")
 }
+
+func anotherFunction() {
+	fmt.Println(" this is another function")
+}
